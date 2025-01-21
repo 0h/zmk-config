@@ -72,10 +72,10 @@
         layer_1 {
             label = "RAISE";
             bindings = <
-&none  &kp ESC      &kp AT     &kp HASH     &kp DOLLAR  &kp LBKT     &kp RBKT   &kp PLUS           &kp MINUS      &kp ASTRK      &kp EQUAL  &none
-&none  &kp TAB      &kp UNDER  &kp PERCENT  &kp ENTER   &kp LPAR     &kp RPAR   &kp EXCLAMATION    &kp AMPERSAND  &kp BACKSPACE  &kp DEL    &none
-&none  &kp LS(TAB)  &kp TILDE  &kp CARET    &kp GRAVE   &kp LBRC     &kp RBRC   &kp DOUBLE_QUOTES  &kp SQT        &kp PIPE       &kp BSLH   &none
-                               &kt LWIN     &kp BSPC    &kp LSHFT    &kp SPACE  &none              &none
+&none  &kp ESC      &kp AT     &kp HASH     &kp DOLLAR       &kp LBKT     &kp RBKT   &kp PLUS           &kp MINUS      &kp ASTRK   &kp EQUAL  &none
+&none  &kp TAB      &kp UNDER  &kp PERCENT  &kp EXCLAMATION  &kp LPAR     &kp RPAR   &kp ENTER          &kp BACKSPACE  &kp DELETE  &kp GRAVE  &none
+&none  &kp LS(TAB)  &kp TILDE  &kp CARET    &kp AMPERSAND    &kp LBRC     &kp RBRC   &kp DOUBLE_QUOTES  &kp SQT        &kp PIPE    &kp BSLH   &none
+                               &kt LWIN     &kp BSPC         &kp LSHFT    &kp SPACE  &none              &none
             >;
         };
 
